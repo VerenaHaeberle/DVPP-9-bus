@@ -19,7 +19,12 @@ This source code is distributed in the hope that it will be useful, but without 
 
 We do request that publications in which this testbed is adopted, explicitly acknowledge that fact by citing the above mentioned paper:
 
-@ARTICLE{...}
+@article{haberle2021control,
+  title={Control design of dynamic virtual power plants: An adaptive divide-and-conquer approach},
+  author={Haberle, Verena and Fisher, Michael W and Araujo, Eduardo Prieto and Dorfler, Florian},
+  journal={IEEE Transactions on Power Systems},
+  year={2021},
+  publisher={IEEE}}
 
 @misc{simulink_model, title={{D}ynamic {V}irtual {P}ower {P}lant Case Studies}, howpublished={Github repository}, author={V. Häberle}, note = {https://github.com/VerenaHaeberle/DVPP-Case-Studies}, year={2021}}
 
